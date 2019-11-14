@@ -2,6 +2,7 @@ package com.trilogyed.vinlookup.model;
 
 public class Vehicle {
 
+
     private String type;
     private String make;
     private String model;

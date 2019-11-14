@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-service-registry/eureka-service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/moto-inventory-service/pom.xml" />
+        <option value="$PROJECT_DIR$/vin-lookup/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-config-service/cloud-config-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
